@@ -17838,10 +17838,10 @@ textarea.form-control-lg {
 }
 
 .btn-secondary {
-  --bs-btn-hover-bg: #cfd6ff;
-  --bs-btn-active-bg: #cfd6ff;
-  --bs-btn-hover-border-color: #cfd6ff;
-  --bs-btn-active-border-color: #cfd6ff;
+  --bs-btn-hover-bg: #d9e5ec;
+  --bs-btn-active-bg: #d9e5ec;
+  --bs-btn-hover-border-color: #d9e5ec;
+  --bs-btn-active-border-color: #d9e5ec;
 }
 
 .btn-success {
