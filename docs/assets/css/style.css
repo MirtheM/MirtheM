@@ -17602,8 +17602,8 @@ textarea.form-control-lg {
   right: auto;
   width: 15px;
   height: 2px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#543DE7), to(#7F39F8)) !important;
-  background: linear-gradient(180deg, #543DE7 0%, #7F39F8 100%) !important;
+  background: -webkit-gradient(linear, left top, left bottom, from(#FFBF01), to(#FFBF01)) !important;
+  background: linear-gradient(180deg, #FFBF01 0%, #FFBF01 100%) !important;
 }
 .accordion.accordion-icon-start .accordion-header .accordion-button:before {
   content: "";
@@ -17611,8 +17611,8 @@ textarea.form-control-lg {
   right: auto;
   width: 15px;
   height: 2px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#543DE7), to(#7F39F8)) !important;
-  background: linear-gradient(180deg, #543DE7 0%, #7F39F8 100%) !important;
+  background: -webkit-gradient(linear, left top, left bottom, from(#FFBF01), to(#FFBF01)) !important;
+  background: linear-gradient(180deg, #FFBF01 0%, #FFBF01 100%) !important;
 }
 .accordion.accordion-icon-start .accordion-body {
   padding: 0.2rem 1rem 0.5rem 2rem;
